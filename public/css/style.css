@@ -1,0 +1,12 @@
+h1 {
+    background-color: white;
+    text-align: center;
+    height: 40px;
+}
+body {
+    background: linear-gradient(205deg, rgba(156, 121, 205, 0.782)50%, rgb(220,182,193)50%);
+    height: 100vh;
+}
+.box {
+    text-align: center;
+}
